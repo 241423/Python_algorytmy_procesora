@@ -1,0 +1,2 @@
+Sredni czas oczekiwania w kolejce: 514.982 ms
+Sredni czas cyklu: 525.579 ms
